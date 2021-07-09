@@ -1,2 +1,5 @@
 # hello-world
-Hello-world for IMPM TechMind
+
+Hello!
+
+London is the capital of Great Britain! The sun is shining now very bright! :)
