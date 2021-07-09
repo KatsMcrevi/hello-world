@@ -1,5 +1,5 @@
 # hello-world
 
-Hello!
+Good bye!
 
-London is the capital of Great Britain! The sun is shining now very bright! :)
+Minsk is a capital of Belarus.
